@@ -2,7 +2,7 @@ import chainedFunction from 'chained-function';
 import cx from 'classnames';
 import PropTypes from 'prop-types';
 import React, { Component } from 'react';
-import match from './match-component';
+import match from './match-cfwwfwefwfeggewgegwegwewfwomponent';
 import DropdownMenu from './DropdownMenu';
 import styles from './index.styl';
 
